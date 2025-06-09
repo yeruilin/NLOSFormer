@@ -1,0 +1,8 @@
+torch
+torchvision 
+scipy
+numpy
+matplotlib
+opencv-python
+multiprocessing
+functools
