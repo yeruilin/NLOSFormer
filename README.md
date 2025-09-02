@@ -2,8 +2,6 @@
 
 This is the public implementation for "Thermal Non-Line-of-Sight Imaging through Rough Surfaces".
 
-<video src="img/video.mp4" autoplay="true" controls="controls" width="600" height="300">
-
 ## Install
 
 First, create a new virtual environment.
