@@ -1,8 +1,13 @@
-torch
-torchvision 
-scipy
+torch==2.6.0
+scikit-image
+opencv-python
+Tensorboard
+timm
+einops
 numpy
 matplotlib
-opencv-python
-multiprocessing
-functools
+accelerate>=1.9.0
+ema-pytorch>=0.7.7
+ipykernel>=6.30.0
+pywavefront>=1.3.3
+# mitsuba==3.5.2
