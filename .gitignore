@@ -135,9 +135,6 @@ models/__pycache__/
 runs/
 dataset/
 
-*.mat
-
-TestData/
 TrainingData/
 Video/
 Result/
